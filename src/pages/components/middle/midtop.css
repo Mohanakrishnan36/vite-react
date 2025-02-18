@@ -1,0 +1,36 @@
+.sixteen{
+    display: flex;
+    width: max-content;
+    height: max-content;
+    background:linear-gradient( 50deg, #566999,white, #566999);
+    margin: 25px;
+   
+} 
+.fiftyfour{
+    font-size: 1em;
+    border: 1px solid;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.fiftyfive{
+    text-align: center;
+}
+.fiftysix{
+    font-size: 1em;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+.fiftyseven{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.fiftyeight{
+    font-size: 1em;
+    text-transform: capitalize;
+    text-align:center;
+}
+.fiftynine{
+    background:linear-gradient( 50deg, #566999,white, #566999);   
+}

@@ -1,0 +1,13 @@
+.top1{
+    width: max-content;
+    height: max-content;
+    background:linear-gradient( 50deg, #566999,white, #566999);
+}
+.twenty{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid;
+    margin: 10px;
+
+}

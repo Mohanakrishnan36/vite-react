@@ -1,0 +1,19 @@
+.back{
+  /* height: 500px;
+    width: 500px;
+      background: linear-gradient(90deg,#858992,#E2E8F8,#858992);*/
+      /*-webkit-transform: rotate(45deg);
+    background: -webkit-linear-gradient(90deg, #fff, #000);
+    content: '';
+    width: 12em;
+    height: 12em;*/
+    background: linear-gradient(90deg,#858992,#E2E8F8,#858992);
+    width: 500px;
+    height: 500px;
+}
+.seventeen{
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  background:radial-gradient(  #566999,white, #566999);
+}

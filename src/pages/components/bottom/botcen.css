@@ -1,0 +1,89 @@
+.thirtytwocom{
+    background:linear-gradient( 90deg, #566999,white, #566999);
+}
+.twentythree{
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.twentynine{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.twentyeight{
+    border: 2px solid;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 20px;
+    text-transform: uppercase;
+
+}
+.twentyfour{
+    text-align: center;
+}
+.twentyfive{
+    text-align:center;
+}
+.twentyseven{
+    
+    border: 2px solid;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 20px;
+    text-transform: uppercase;
+    
+
+}
+.twentysix{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    border: 10px solid yellow;
+}
+.thirty{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex:10vmax;
+    border: 2px solid;
+    background:radial-gradient( #566999,white, #566999);
+}
+.thirtyeight{
+    background:radial-gradient( #566999,white, #566999);
+}
+.fourtynine{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid;
+}
+.fiftyone{
+    text-align: center;
+}
+.fiftytwo{
+    display:flex;
+    margin: 20px;
+}
+.thirtynine{
+    flex: 1;
+}
+.fourtyfive{
+    flex: 1;
+    justify-content: flex-end;
+}
+.fourty{
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+.fourtyone{
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.fifty{
+    list-style: none;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    
+}

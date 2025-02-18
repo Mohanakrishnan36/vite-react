@@ -1,0 +1,46 @@
+.icons{
+    list-style: none;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    border: 1px solid;
+    background:linear-gradient(60deg, #566999,white, #566999);
+}
+.icon1{
+    border: solid;
+    
+}
+.icon2{
+    border: solid;
+    
+}
+.icon3{
+    border: solid;
+    
+}
+.icon4{
+    border: solid;
+    
+}
+.icon5{
+    border: solid;
+    
+}
+.icon11{
+    border: solid;
+    
+}
+.icon{
+    display: flex;
+    border: solid;
+    margin: auto;
+    justify-content: space-around;
+    list-style: none;
+    background:linear-gradient(60deg, #566999,white, #566999);
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,30 @@
+.thirtyone{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient( 50deg, #566999,white, #566999);
+
+}
+.thirtyfour{
+    font-size: 2em;
+    border: 2px solid;
+    border-radius: 10px;
+    text-transform: uppercase;
+    justify-content: center;
+}
+.thirtyseven{
+    text-align: center;
+}
+.thirtythree{
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align:center;
+}
+.thirtyfive{
+    font-size: 2em;
+    text-transform: capitalize;
+    text-align:center;
+    
+}
+.thirtysix{
+    background:radial-gradient(  #566999,white, #566999);
+}

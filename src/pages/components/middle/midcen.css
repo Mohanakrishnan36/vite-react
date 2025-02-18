@@ -1,0 +1,40 @@
+.image1{
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 10px;
+/*background: linear-gradient(90deg,#858992,#E2E8F8,#858992);*/
+}
+.sixty{
+    background: linear-gradient(90deg,#858992,#E2E8F8,#858992);
+}
+.sixtyone{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.sixtysix{
+    text-align: center;
+   
+}
+.sixtytwo{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.sixtyfour{
+    font-size: 1em;
+    text-transform: capitalize;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.sixtythree{
+    text-align: center;
+}
+.sixtyfive{
+    color: lightslategray;
+    font-size: 1em;
+    text-transform: capitalize;
+}
